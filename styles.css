@@ -1,0 +1,23 @@
+.btn {
+    background-color:#2f2f2f;
+    border: #000 1px solid;
+    color: aqua;
+}
+
+.square {
+    width: 80%;
+    height: 80%;
+    position: absolute;
+    background-color: white;
+    border: #000 2px solid;
+}
+
+.small-square {
+    width: 3em;
+    height: 3em;
+    position: relative;
+    top: 1em;
+    left: 1em;
+    border: #000 2px solid;
+    background-color: aqua;
+}
